@@ -1,5 +1,7 @@
 # Intro
 
+  [Example](http://bwinchester.github.io/color-tamer.js/)
+
 This is a simple wrapper around a great [color.js](https://github.com/brehaut/color-js) library that extends the library by adding common color scale builder methods. The methods return an array of string HEX values commonly used by visualization libraries.
 
 `color.js` also has some great color methods and schemes (but not monotone scales). You can access these methods with either 
